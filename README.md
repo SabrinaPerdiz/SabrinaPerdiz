@@ -4,13 +4,13 @@
   </h1>
 </div>
 
-<div>
+<div style="float:left; display: inline_block;">
   <p>🖥️ Ciência de dados - UNIVESP</p>
   <p>💻 Técnico em Informática - COTIL</p>
   <p>🔌 Técnico em Eletroeletrônica - SENAI</p>
 </div>
 
-<div style="display: inline_block">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-<div align="left" style="display: inline_block;">
+<div align="rightt" style="float:right">
   <a href="https://github.com/SabrinaPerdiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaPerdiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPerdiz&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaperdiz&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
