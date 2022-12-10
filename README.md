@@ -24,5 +24,5 @@
 <div align="rightt" style="float:right">
   <a href="https://github.com/SabrinaPerdiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaPerdiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaperdiz&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaperdiz&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
